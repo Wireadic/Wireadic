@@ -1,4 +1,1 @@
-- 👋 Salut, je suis @Wireadic
-- 👀 Je suis un passionné de jeux vidéos, d'animés et de musique
-- 🌱 J'apprend actuellement à coder des bots discord 
-- 📫 Me contacter : sur discord en mp pour sur mon serveur ( https://discord.gg/gDXE3yhax5 )
+
